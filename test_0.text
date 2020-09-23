@@ -12,3 +12,5 @@ Test-4
   - check request headers in the cloud function
 Test-5
   - refactor index.js
+Test-6
+  - get repoName
