@@ -8,3 +8,5 @@ Test-2
   
 Test-3
   - check request headers in the handler
+Test-4
+  - check request headers in the cloud function
